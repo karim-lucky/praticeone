@@ -5,6 +5,7 @@ export default function (){
         dfkdjfsdfjsdjfkj
         dfdsfdf 
         ikram khan wazir shakai kairm khan wazir shakai waziristan done 
+        {/* dfjdkjfdsjfksdjsfkjkjdfk */}
     </div>
     
 }
